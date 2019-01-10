@@ -1,2 +1,2 @@
 # git-practise
-test read on 3rd commit
+test read on 6th commit
